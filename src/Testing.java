@@ -14,6 +14,10 @@ public class Testing {
 	public int multy(int amount){
 		return this.value * amount;
 	}
+	
+	public int add(int a, int b){
+		return a+b;
+	}
 
 	public int add(int a, int b){
 		return a - b;
