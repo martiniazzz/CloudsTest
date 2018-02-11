@@ -15,4 +15,8 @@ public class Testing {
 		return this.value * amount;
 	}
 
+	public int add(int a, int b){
+		return a - b;
+	}
+
 }
